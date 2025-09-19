@@ -1,6 +1,6 @@
-# Funded-on-Sonic
+# Funded-on-Somnia
 
-**Funded-on-Sonic** is a decentralized crowdfunding protocol designed to democratize access to funding by eliminating the gatekeeping, opacity, and inefficiencies of traditional centralized platforms. Built on trustless infrastructure, it empowers anyone to launch or support campaigns with full transparency and zero intermediaries.
+**Funded-on-Somnia** is a decentralized crowdfunding protocol designed to democratize access to funding by eliminating the gatekeeping, opacity, and inefficiencies of traditional centralized platforms. Built on trustless infrastructure, it empowers anyone to launch or support campaigns with full transparency and zero intermediaries.
 
 ---
 
